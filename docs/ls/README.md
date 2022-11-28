@@ -1,0 +1,3 @@
+# LS
+
+> An awesome project.
